@@ -179,6 +179,10 @@ In Excel: filter `human_reply` = YES to get the 272 human replies; a pivot table
 - Data and charts (`*.csv`, `*.xlsx`, `charts/`): [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0).
 - Code (`scripts/`): [MIT](LICENSE-CODE).
 
+## Use of AI tools
+
+The chart scripts in `scripts/` and this documentation were written with the help of an AI coding assistant (Claude, Anthropic). The author checked the scripts and their output against the data and is responsible for the dataset and for every figure derived from it.
+
 ## How to cite
 
 Kulyk, P. (2026). *UNFORTUNATELY: replies of 4,269 art institutions to one letter of introduction* (v2026.11) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24282477
