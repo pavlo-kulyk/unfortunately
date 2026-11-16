@@ -181,7 +181,7 @@ In Excel: filter `human_reply` = YES to get the 272 human replies; a pivot table
 
 ## Use of AI tools
 
-The chart scripts in `scripts/` and this documentation were written with the help of an AI coding assistant (Claude, Anthropic). The author checked the scripts and their output against the data and is responsible for the dataset and for every figure derived from it.
+The chart scripts in `scripts/` and this documentation were written with the help of an AI coding assistant (Claude, Anthropic). No AI tool was used to classify the replies: the author coded every reply by hand. The author checked the scripts and their output against the data and is responsible for the dataset and for every figure derived from it.
 
 ## How to cite
 
