@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="638.319106pt" height="221.274375pt" viewBox="0 0 638.319106 221.274375" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T01:35:47.153264</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 221.274375 
+L 638.319106 221.274375 
+L 638.319106 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 108.205313 214.074375 
+L 631.119106 214.074375 
+L 631.119106 47.834375 
+L 108.205313 47.834375 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 108.205313 92.888483 
+L 558.993065 92.888483 
+L 558.993065 55.390739 
+L 108.205313 55.390739 
+z
+" clip-path="url(#pc809ec12bd)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 108.205313 149.703247 
+L 186.603183 149.703247 
+L 186.603183 112.205503 
+L 108.205313 112.205503 
+z
+" clip-path="url(#pc809ec12bd)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 108.205313 206.518011 
+L 112.125206 206.518011 
+L 112.125206 169.020267 
+L 108.205313 169.020267 
+z
+" clip-path="url(#pc809ec12bd)" style="fill: #d81b60"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mf04e398060" d="M 0 0 
+L -3.5 0 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf04e398060" x="108.205313" y="74.139611" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="101.205313" y="78.318751" transform="rotate(-0 101.205313 78.318751)">comma  ,</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mf04e398060" x="108.205313" y="130.954375" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="101.205313" y="135.133516" transform="rotate(-0 101.205313 135.133516)">none (line break)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mf04e398060" x="108.205313" y="187.769139" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="101.205313" y="191.94828" transform="rotate(-0 101.205313 191.94828)">exclamation  !</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="564.402518" y="77.036955" transform="rotate(-0 564.402518 77.036955)">230  (85%)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="192.012636" y="133.851719" transform="rotate(-0 192.012636 133.851719)">40  (15%)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="117.534659" y="190.666483" transform="rotate(-0 117.534659 190.666483)">2  (1%)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="108.205313" y="18.597656" transform="rotate(-0 108.205313 18.597656)">What follows the greeting word</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #777777" x="108.205313" y="35.650703" transform="rotate(-0 108.205313 35.650703)">The comma is law</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc809ec12bd">
+   <rect x="108.205313" y="47.834375" width="522.913793" height="166.24"/>
+  </clipPath>
+ </defs>
+</svg>

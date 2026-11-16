@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="667.148281pt" height="350.874375pt" viewBox="0 0 667.148281 350.874375" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T01:35:47.281095</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 350.874375 
+L 667.148281 350.874375 
+L 667.148281 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 115.068281 343.674375 
+L 659.948281 343.674375 
+L 659.948281 47.834375 
+L 115.068281 47.834375 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 115.068281 79.656803 
+L 584.792419 79.656803 
+L 584.792419 61.281648 
+L 115.068281 61.281648 
+z
+" clip-path="url(#p34835770e3)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 115.068281 107.497947 
+L 463.012087 107.497947 
+L 463.012087 89.122792 
+L 115.068281 89.122792 
+z
+" clip-path="url(#p34835770e3)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 115.068281 135.339092 
+L 280.341589 135.339092 
+L 280.341589 116.963936 
+L 115.068281 116.963936 
+z
+" clip-path="url(#p34835770e3)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 115.068281 163.180236 
+L 254.245804 163.180236 
+L 254.245804 144.805081 
+L 115.068281 144.805081 
+z
+" clip-path="url(#p34835770e3)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 115.068281 191.02138 
+L 245.547208 191.02138 
+L 245.547208 172.646225 
+L 115.068281 172.646225 
+z
+" clip-path="url(#p34835770e3)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 115.068281 218.862525 
+L 236.848613 218.862525 
+L 236.848613 200.48737 
+L 115.068281 200.48737 
+z
+" clip-path="url(#p34835770e3)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 115.068281 246.703669 
+L 193.355638 246.703669 
+L 193.355638 228.328514 
+L 115.068281 228.328514 
+z
+" clip-path="url(#p34835770e3)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 115.068281 274.544814 
+L 193.355638 274.544814 
+L 193.355638 256.169658 
+L 115.068281 256.169658 
+z
+" clip-path="url(#p34835770e3)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 115.068281 302.385958 
+L 158.561257 302.385958 
+L 158.561257 284.010803 
+L 115.068281 284.010803 
+z
+" clip-path="url(#p34835770e3)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 115.068281 330.227102 
+L 158.561257 330.227102 
+L 158.561257 311.851947 
+L 115.068281 311.851947 
+z
+" clip-path="url(#p34835770e3)" style="fill: #d81b60"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m96a0275020" d="M 0 0 
+L -3.5 0 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m96a0275020" x="115.068281" y="70.469225" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="108.068281" y="74.648366" transform="rotate(-0 108.068281 74.648366)">Kind Regards</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m96a0275020" x="115.068281" y="98.31037" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="108.068281" y="102.48951" transform="rotate(-0 108.068281 102.48951)">Best Regards</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m96a0275020" x="115.068281" y="126.151514" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="108.068281" y="130.330655" transform="rotate(-0 108.068281 130.330655)">Warm Regards</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m96a0275020" x="115.068281" y="153.992658" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="108.068281" y="158.171799" transform="rotate(-0 108.068281 158.171799)">Best</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m96a0275020" x="115.068281" y="181.833803" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="108.068281" y="186.012943" transform="rotate(-0 108.068281 186.012943)">Best Wishes</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m96a0275020" x="115.068281" y="209.674947" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="108.068281" y="213.854088" transform="rotate(-0 108.068281 213.854088)">Sincerely</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m96a0275020" x="115.068281" y="237.516092" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="108.068281" y="241.695232" transform="rotate(-0 108.068281 241.695232)">All The Best</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m96a0275020" x="115.068281" y="265.357236" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="108.068281" y="269.536377" transform="rotate(-0 108.068281 269.536377)">With Kind Regards</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m96a0275020" x="115.068281" y="293.19838" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="108.068281" y="297.377521" transform="rotate(-0 108.068281 297.377521)">Kindest Regards</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m96a0275020" x="115.068281" y="321.039525" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="108.068281" y="325.218665" transform="rotate(-0 108.068281 325.218665)">Regards</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="590.429109" y="73.366569" transform="rotate(-0 590.429109 73.366569)">54  (22%)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="468.648777" y="101.207713" transform="rotate(-0 468.648777 101.207713)">40  (16%)</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="285.978279" y="129.048858" transform="rotate(-0 285.978279 129.048858)">19  (8%)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="259.882493" y="156.890002" transform="rotate(-0 259.882493 156.890002)">16  (7%)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="251.183898" y="184.731147" transform="rotate(-0 251.183898 184.731147)">15  (6%)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="242.485303" y="212.572291" transform="rotate(-0 242.485303 212.572291)">14  (6%)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="198.992327" y="240.413435" transform="rotate(-0 198.992327 240.413435)">9  (4%)</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="198.992327" y="268.25458" transform="rotate(-0 198.992327 268.25458)">9  (4%)</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="164.197947" y="296.095724" transform="rotate(-0 164.197947 296.095724)">5  (2%)</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="164.197947" y="323.936868" transform="rotate(-0 164.197947 323.936868)">5  (2%)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="115.068281" y="18.597656" transform="rotate(-0 115.068281 18.597656)">How they sign off</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #777777" x="115.068281" y="35.650703" transform="rotate(-0 115.068281 35.650703)">Top declared closing phrases — the ‘regards’ family is over half of all sign-offs</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p34835770e3">
+   <rect x="115.068281" y="47.834375" width="544.88" height="295.84"/>
+  </clipPath>
+ </defs>
+</svg>

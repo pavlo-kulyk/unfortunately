@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="642.108563pt" height="346.276953pt" viewBox="0 0 642.108563 346.276953" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T01:35:37.282722</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M -0 346.276953 
+L 642.108563 346.276953 
+L 642.108563 0 
+L -0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 175.68 302.741187 
+L 583.92 302.741187 
+L 583.92 47.717187 
+L 175.68 47.717187 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 175.68 84.885842 
+L 514.083216 84.885842 
+L 514.083216 59.309187 
+L 175.68 59.309187 
+z
+" clip-path="url(#p9aa9ebd9f2)" style="fill: #052962"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 175.68 126.138511 
+L 490.143705 126.138511 
+L 490.143705 100.561857 
+L 175.68 100.561857 
+z
+" clip-path="url(#p9aa9ebd9f2)" style="fill: #052962"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 175.68 167.39118 
+L 206.436722 167.39118 
+L 206.436722 141.814526 
+L 175.68 141.814526 
+z
+" clip-path="url(#p9aa9ebd9f2)" style="fill: #0084c6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 175.68 208.643849 
+L 197.241414 208.643849 
+L 197.241414 183.067195 
+L 175.68 183.067195 
+z
+" clip-path="url(#p9aa9ebd9f2)" style="fill: #0084c6"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 175.68 249.896518 
+L 179.960575 249.896518 
+L 179.960575 224.319864 
+L 175.68 224.319864 
+z
+" clip-path="url(#p9aa9ebd9f2)" style="fill: #c70000"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 175.68 291.149187 
+L 176.864411 291.149187 
+L 176.864411 265.572533 
+L 175.68 265.572533 
+z
+" clip-path="url(#p9aa9ebd9f2)" style="fill: #c70000"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #121212" x="517.254012" y="75.132827" transform="rotate(-0 517.254012 75.132827)">4,269</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #121212" x="170.923806" y="75.270796" transform="rotate(-0 170.923806 75.270796)">Emails sent</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #121212" x="493.314501" y="116.385496" transform="rotate(-0 493.314501 116.385496)">3,967   (92.9% of sent)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #121212" x="170.923806" y="116.523465" transform="rotate(-0 170.923806 116.523465)">Delivered</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #121212" x="209.607518" y="157.638165" transform="rotate(-0 209.607518 157.638165)">388   (9.1% of sent)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #121212" x="170.923806" y="157.776134" transform="rotate(-0 170.923806 157.776134)">Any reply at all</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #121212" x="200.41221" y="198.890835" transform="rotate(-0 200.41221 198.890835)">272   (6.4% of sent)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #121212" x="170.923806" y="199.028803" transform="rotate(-0 170.923806 199.028803)">A human wrote back</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #121212" x="183.131371" y="240.143504" transform="rotate(-0 183.131371 240.143504)">54   (1.3% of sent)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #121212" x="170.923806" y="240.281472" transform="rotate(-0 170.923806 240.281472)">Showed interest in the work</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #121212" x="180.035207" y="281.396173" transform="rotate(-0 180.035207 281.396173)">0</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #121212" x="170.923806" y="281.534141" transform="rotate(-0 170.923806 281.534141)">Led to a collaboration</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #121212" x="175.68" y="18.597656" transform="rotate(-0 175.68 18.597656)">4,269 letters in, 0 collaborations out</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #767676" x="175.68" y="35.533516" transform="rotate(-0 175.68 35.533516)">One artist's identical proposal to art institutions in 91 countries — what came back</text>
+   </g>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #767676" x="7.2" y="337.517187" transform="rotate(-0 7.2 337.517187)">Source: author's correspondence log, 4,269 institutions, Jan–Dec 2025. Interest = reply with positive feedback on the work.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9aa9ebd9f2">
+   <rect x="175.68" y="47.717187" width="408.24" height="255.024"/>
+  </clipPath>
+ </defs>
+</svg>

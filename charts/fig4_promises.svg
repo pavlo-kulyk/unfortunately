@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="643.454328pt" height="329.503766pt" viewBox="0 0 643.454328 329.503766" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T01:35:37.470180</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 329.503766 
+L 643.454328 329.503766 
+L 643.454328 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 119.427031 285.968 
+L 624.003031 285.968 
+L 624.003031 50.816 
+L 119.427031 50.816 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 119.427031 126.242113 
+L 416.236443 126.242113 
+L 416.236443 81.873811 
+L 119.427031 81.873811 
+z
+" clip-path="url(#p032af14c26)" style="fill: #052962"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 416.236443 126.242113 
+L 616.582796 126.242113 
+L 616.582796 81.873811 
+L 416.236443 81.873811 
+z
+" clip-path="url(#p032af14c26)" style="fill: #b9c6d8"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 119.427031 214.978717 
+L 356.874561 214.978717 
+L 356.874561 170.610415 
+L 119.427031 170.610415 
+z
+" clip-path="url(#p032af14c26)" style="fill: #9e9e9e"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 356.874561 214.978717 
+L 375.425149 214.978717 
+L 375.425149 170.610415 
+L 356.874561 170.610415 
+z
+" clip-path="url(#p032af14c26)" style="fill: #0084c6"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 375.425149 214.978717 
+L 397.685855 214.978717 
+L 397.685855 170.610415 
+L 375.425149 170.610415 
+z
+" clip-path="url(#p032af14c26)" style="fill: #64b2d1"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 397.685855 214.978717 
+L 416.236443 214.978717 
+L 416.236443 170.610415 
+L 397.685855 170.610415 
+z
+" clip-path="url(#p032af14c26)" style="fill: #c70000"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m3a7827a259" d="M 0 0 
+L -3.5 0 
+" style="stroke: #121212; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3a7827a259" x="119.427031" y="192.794566" style="fill: #121212; stroke: #121212; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #121212" transform="translate(46.365156 191.650738)">what the 80</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #121212" transform="translate(7.2 203.968332)">promises produced</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m3a7827a259" x="119.427031" y="104.057962" style="fill: #121212; stroke: #121212; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #121212" x="112.427031" y="108.237103" transform="rotate(-0 112.427031 108.237103)">134 auto-replies</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="267.831737" y="107.050306" transform="rotate(-0 267.831737 107.050306)">promised a human reply — 80</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #121212" x="516.409619" y="107.093275" transform="rotate(-0 516.409619 107.093275)">no promise — 54</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="238.150796" y="195.69191" transform="rotate(-0 238.150796 195.69191)">never replied — 64</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="366.149855" y="195.69191" transform="rotate(-0 366.149855 195.69191)">5</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="386.555502" y="195.69191" transform="rotate(-0 386.555502 195.69191)">6</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="406.961149" y="195.69191" transform="rotate(-0 406.961149 195.69191)">5</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0084c6" x="366.149855" y="222.965011" transform="rotate(-0 366.149855 222.965011)">replied late — 5</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #64b2d1" x="386.555502" y="243.37443" transform="rotate(-0 386.555502 243.37443)">replied, no deadline given — 6</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c70000" x="406.961149" y="263.783849" transform="rotate(-0 406.961149 263.783849)">replied on time — 5</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 267.831737 130.902735 
+Q 267.831737 142.214578 267.831737 152.408387 
+" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 269.831737 148.408387 
+L 267.831737 152.408387 
+L 265.831737 148.408387 
+" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+   </g>
+  </g>
+  <g id="text_12">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #121212" x="8.835031" y="18.597656" transform="rotate(-0 8.835031 18.597656)">“We will get back to you”: a promise kept one time in five</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #767676" x="8.835031" y="37.178359" transform="rotate(-0 8.835031 37.178359)">Median promised window: 7 days.  Median delay of the 32 promised replies still missing: 474 days (as of 16 Nov 2026).</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #767676" x="8.835031" y="320.744" transform="rotate(-0 8.835031 320.744)">Source: author's correspondence log, 4,269 institutions, Jan–Dec 2025. Promise tracking coded manually from each auto-reply text.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p032af14c26">
+   <rect x="119.427031" y="50.816" width="504.576" height="235.152"/>
+  </clipPath>
+ </defs>
+</svg>

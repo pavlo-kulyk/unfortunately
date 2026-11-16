@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "UNFORTUNATELY: replies of 4,269 art institutions to one letter of introduction"
+authors:
+  - family-names: Kulyk
+    given-names: Pavlo
+version: "2026.11"
+date-released: "2026-11-16"
+license: CC-BY-4.0
+url: "https://chaotism.art"
+repository-code: "https://github.com/pavlo-kulyk/unfortunately-dataset"
+keywords:
+  - art institutions
+  - galleries
+  - museums
+  - rejection letters
+  - gatekeeping
+  - correspondence audit
+abstract: >-
+  One letter of introduction was sent individually to 4,269 art institutions in 91 countries
+  between 13 January and 2 December 2025. Every reply was coded by hand. The dataset has one row
+  per institution and 79 columns (delivery, automatic and human replies, timing, stated refusal
+  reasons, structure and vocabulary of each reply, promises made in automatic replies, and
+  prominence measures). It contains no letter texts and no email addresses.

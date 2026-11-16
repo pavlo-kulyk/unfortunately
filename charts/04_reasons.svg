@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="696.008466pt" height="321.957187pt" viewBox="0 0 696.008466 321.957187" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T01:35:46.164065</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 321.957187 
+L 696.008466 321.957187 
+L 696.008466 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 248.738906 314.757187 
+L 688.228906 314.757187 
+L 688.228906 47.717187 
+L 248.738906 47.717187 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 248.738906 88.163497 
+L 627.609596 88.163497 
+L 627.609596 59.855369 
+L 248.738906 59.855369 
+z
+" clip-path="url(#p0716a149aa)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 248.738906 131.054598 
+L 560.750062 131.054598 
+L 560.750062 102.746471 
+L 248.738906 102.746471 
+z
+" clip-path="url(#p0716a149aa)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 248.738906 173.9457 
+L 382.457973 173.9457 
+L 382.457973 145.637573 
+L 248.738906 145.637573 
+z
+" clip-path="url(#p0716a149aa)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 248.738906 216.836802 
+L 308.169603 216.836802 
+L 308.169603 188.528675 
+L 248.738906 188.528675 
+z
+" clip-path="url(#p0716a149aa)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 248.738906 259.727904 
+L 285.883092 259.727904 
+L 285.883092 231.419777 
+L 248.738906 231.419777 
+z
+" clip-path="url(#p0716a149aa)" style="fill: #d81b60"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 248.738906 302.619006 
+L 278.454254 302.619006 
+L 278.454254 274.310878 
+L 248.738906 274.310878 
+z
+" clip-path="url(#p0716a149aa)" style="fill: #d81b60"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="me62ca5df75" d="M 0 0 
+L -3.5 0 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#me62ca5df75" x="248.738906" y="74.009433" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="241.738906" y="78.188574" transform="rotate(-0 241.738906 78.188574)">No new artists / full roster / schedule …</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#me62ca5df75" x="248.738906" y="116.900535" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="241.738906" y="121.079675" transform="rotate(-0 241.738906 121.079675)">No unsolicited submissions / proposals</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#me62ca5df75" x="248.738906" y="159.791637" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="241.738906" y="163.970777" transform="rotate(-0 241.738906 163.970777)">Institutional policy / collection limits…</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#me62ca5df75" x="248.738906" y="202.682738" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="241.738906" y="206.861879" transform="rotate(-0 241.738906 206.861879)">Curatorial / invitation-based selection</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#me62ca5df75" x="248.738906" y="245.57384" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="241.738906" y="249.752981" transform="rotate(-0 241.738906 249.752981)">Only through galleries / dealers / fairs</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#me62ca5df75" x="248.738906" y="288.464942" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1a1a1a" x="241.738906" y="292.644083" transform="rotate(-0 241.738906 292.644083)">Other closed-door reason / no current co…</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="632.156044" y="76.906777" transform="rotate(-0 632.156044 76.906777)">51  (40%)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="565.296511" y="119.797879" transform="rotate(-0 565.296511 119.797879)">42  (33%)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="387.004421" y="162.68898" transform="rotate(-0 387.004421 162.68898)">18  (14%)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="312.716051" y="205.580082" transform="rotate(-0 312.716051 205.580082)">8  (6%)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="290.42954" y="248.471184" transform="rotate(-0 290.42954 248.471184)">5  (4%)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="283.000703" y="291.362286" transform="rotate(-0 283.000703 291.362286)">4  (3%)</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1a1a1a" x="248.738906" y="18.597656" transform="rotate(-0 248.738906 18.597656)">Stated reasons for the closed door</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #777777" x="248.738906" y="35.533516" transform="rotate(-0 248.738906 35.533516)">The 128 human replies that named an explicit refusal reason</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0716a149aa">
+   <rect x="248.738906" y="47.717187" width="439.49" height="267.04"/>
+  </clipPath>
+ </defs>
+</svg>
