@@ -3,7 +3,7 @@
 **Study.** One letter of introduction was sent individually to 4,269 art institutions in 91 countries between 13 January and 2 December 2025. Every outgoing message was timestamped; every reply was coded by hand.
 
 **Author.** Pavlo Kulyk · chaotism.art
-**Version.** November 2026.
+**Version.** November 2026 (v2026.11) · DOI [10.5281/zenodo.24282477](https://doi.org/10.5281/zenodo.24282477)
 
 ## What is in this repository
 
@@ -181,6 +181,8 @@ In Excel: filter `human_reply` = YES to get the 272 human replies; a pivot table
 
 ## How to cite
 
-Kulyk, P. (2026). *UNFORTUNATELY: replies of 4,269 art institutions to one letter of introduction* [Data set].
+Kulyk, P. (2026). *UNFORTUNATELY: replies of 4,269 art institutions to one letter of introduction* (v2026.11) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24282477
+
+The DOI above is for this version. [10.5281/zenodo.24282476](https://doi.org/10.5281/zenodo.24282476) always points to the latest version.
 
 Machine-readable metadata is in `CITATION.cff`.
