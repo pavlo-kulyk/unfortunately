@@ -195,5 +195,5 @@ Machine-readable metadata is in `CITATION.cff`.
 
 | Version | Date | DOI | Changes |
 |---|---|---|---|
-| v2026.11.1 | 25 November 2026 | assigned by Zenodo | Chart 33 (`33_mangled_names`) redrawn: each card is as wide as its name, so a long name no longer spills into the next card. Data unchanged. |
+| v2026.11.1 | 25 November 2026 | [10.5281/zenodo.24518143](https://doi.org/10.5281/zenodo.24518143) | Chart 33 (`33_mangled_names`) redrawn: each card is as wide as its name, so a long name no longer spills into the next card. Data unchanged. |
 | v2026.11 | 16 November 2026 | [10.5281/zenodo.24282477](https://doi.org/10.5281/zenodo.24282477) | First public release. |
