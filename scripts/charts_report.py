@@ -662,18 +662,36 @@ save(fig,"32_composite_email")
 
 # ============================================================ 33 mangled names
 mang=H[H["Greeting personalization"].map(name_bucket)=="Mangled"]["Greeting personalization"].value_counts()
-fig, ax=plt.subplots(figsize=(9.4,3.0)); ax.axis("off")
-ax.text(0.0,1.05,"The salutation slips", fontsize=15, fontweight="bold", transform=ax.transAxes)
-ax.text(0.0,0.9,f"{int(mang.sum())} of 272 personalised replies addressed someone who isn’t quite me",
-        fontsize=10.5, color=MUTE, transform=ax.transAxes)
-n=len(mang);
-for i,(nm,c) in enumerate(mang.items()):
-    x=0.02+(i%4)*0.245; yb=0.42-(i//4)*0.42
-    card=FancyBboxPatch((x,yb),0.22,0.32, boxstyle="round,pad=0.01,rounding_size=0.02",
-                        transform=ax.transAxes, linewidth=1.1, edgecolor=PINK_SOFT, facecolor=PINK_PALE)
-    ax.add_patch(card)
-    ax.text(x+0.11, yb+0.2, f"“{nm}”", ha="center", fontsize=12.5, fontweight="bold", color="#7a1240", transform=ax.transAxes)
-    ax.text(x+0.11, yb+0.07, f"×{c}", ha="center", fontsize=10, color=MUTE, transform=ax.transAxes)
+n=len(mang)
+# Layout in points: each card is as wide as its name (so "Thierry Pavlo Kulyk" no longer
+# spills into the next card), cards flow left to right and wrap only past 700 pt.
+_MN_GAP, _MN_CARD_H, _MN_ROW_GAP, _MN_TOP = 10, 60, 12, 52
+_mf=plt.figure(figsize=(4,1), dpi=100); _mr=_mf.canvas.get_renderer(); _mn_cards=[]
+for nm,c in mang.items():
+    _tw=_mf.text(0,0,f"“{nm}”", fontsize=12.5, fontweight="bold").get_window_extent(_mr).width*72/_mf.dpi
+    _mn_cards.append((f"“{nm}”", f"×{c}", max(104, _tw+36)))
+plt.close(_mf)
+_mn_rows=[[]]; _mx=0
+for cd in _mn_cards:
+    if _mn_rows[-1] and _mx+_MN_GAP+cd[2] > 700: _mn_rows.append([]); _mx=0
+    _mx += (_MN_GAP if _mn_rows[-1] else 0) + cd[2]; _mn_rows[-1].append(cd)
+_mw=max(560, max(sum(cd[2] for cd in rw)+_MN_GAP*(len(rw)-1) for rw in _mn_rows))
+_mh=_MN_TOP+len(_mn_rows)*_MN_CARD_H+(len(_mn_rows)-1)*_MN_ROW_GAP+4
+fig=plt.figure(figsize=(_mw/72,_mh/72)); ax=fig.add_axes([0,0,1,1])
+ax.set_xlim(0,_mw); ax.set_ylim(0,_mh); ax.axis("off")
+ax.text(0,_mh-4,"The salutation slips", fontsize=15, fontweight="bold", va="top")
+ax.text(0,_mh-30,f"{int(mang.sum())} of 272 personalised replies addressed someone who isn’t quite me",
+        fontsize=10.5, color=MUTE, va="top")
+_my=_mh-_MN_TOP-_MN_CARD_H
+for rw in _mn_rows:
+    _mx=0
+    for label,cnt,w in rw:
+        ax.add_patch(FancyBboxPatch((_mx+1,_my+1), w-2, _MN_CARD_H-2, boxstyle="round,pad=0,rounding_size=6",
+                     linewidth=1.1, edgecolor=PINK_SOFT, facecolor=PINK_PALE, clip_on=False))
+        ax.text(_mx+w/2, _my+36, label, ha="center", va="center", fontsize=12.5, fontweight="bold", color="#7a1240")
+        ax.text(_mx+w/2, _my+15, cnt, ha="center", va="center", fontsize=10, color=MUTE)
+        _mx+=w+_MN_GAP
+    _my-=_MN_CARD_H+_MN_ROW_GAP
 save(fig,"33_mangled_names")
 
 # ============================================ 34 who the encyclopedia writes down
