@@ -3,7 +3,7 @@
 **Study.** One letter of introduction was sent individually to 4,269 art institutions in 91 countries between 13 January and 2 December 2025. Every outgoing message was timestamped; every reply was coded by hand.
 
 **Author.** Pavlo Kulyk · chaotism.art
-**Version.** November 2026 (v2026.11) · DOI [10.5281/zenodo.24282477](https://doi.org/10.5281/zenodo.24282477)
+**Version.** v2026.11.1, 25 November 2026 · DOI [10.5281/zenodo.24282476](https://doi.org/10.5281/zenodo.24282476) (resolves to the latest version)
 
 ## What is in this repository
 
@@ -185,8 +185,15 @@ The chart scripts in `scripts/` and this documentation were written with the hel
 
 ## How to cite
 
-Kulyk, P. (2026). *UNFORTUNATELY: replies of 4,269 art institutions to one letter of introduction* (v2026.11) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24282477
+Kulyk, P. (2026). *UNFORTUNATELY: replies of 4,269 art institutions to one letter of introduction* (v2026.11.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24282476
 
-The DOI above is for this version. [10.5281/zenodo.24282476](https://doi.org/10.5281/zenodo.24282476) always points to the latest version.
+This DOI always resolves to the latest version. Each version also has a DOI of its own, listed below; cite that one if you need the exact files you used.
 
 Machine-readable metadata is in `CITATION.cff`.
+
+## Versions
+
+| Version | Date | DOI | Changes |
+|---|---|---|---|
+| v2026.11.1 | 25 November 2026 | assigned by Zenodo | Chart 33 (`33_mangled_names`) redrawn: each card is as wide as its name, so a long name no longer spills into the next card. Data unchanged. |
+| v2026.11 | 16 November 2026 | [10.5281/zenodo.24282477](https://doi.org/10.5281/zenodo.24282477) | First public release. |
